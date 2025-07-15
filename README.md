@@ -10,19 +10,17 @@
 
 <!-- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TalysonSoares&theme=gotham) -->
 
-![GitHub Snake Light](https://github.com/TalysonSoares/TalysonSoares/blob/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/TalysonSoares/TalysonSoares/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TalysonSoares&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Iarley085&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
 </div>
 
 <div align="center">  
-  <a href="https://www.instagram.com/talysonsoares_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-  <a href = "mailto:talysonsoares40@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/talysonsoares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div> 
+  <a href="https://www.instagram.com/iarleyvasconcelos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href = "mailto:iarlleyvasconcellos@gmail..com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/iarlley-oliveira-069b40332/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
  
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -51,9 +49,6 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-tailwind-0D1117?style=for-the-badge&logo=tailwind-css&labelColor=0D1117)&nbsp;
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{TalysonSoares}/count.svg" /></p> 
-<br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16A085&height=120&section=footer"/>
+
